@@ -1,0 +1,1 @@
+This is my first project having a certain graphical interface. Although this is a console application, but it gave me the opportunity to be creative, and not just solve algorithmic problems. You can see how it looks in folder "pictures".
