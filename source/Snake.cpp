@@ -90,7 +90,7 @@ int main(){
 			SetConsoleTextAttribute(hConsole, (WORD)((0 << 4) | 14));
 			while ((t != "o")){
 				system("CLS");
-				cout << "Âû ïðîøëè îñíîâíóþ ÷àñòü. Õîòèòå ïðîäîëæèòü?" << endl;
+				cout << "Ã‚Ã» Ã¯Ã°Ã®Ã¸Ã«Ã¨ Ã®Ã±Ã­Ã®Ã¢Ã­Ã³Ã¾ Ã·Ã Ã±Ã²Ã¼. Ã•Ã®Ã²Ã¨Ã²Ã¥ Ã¯Ã°Ã®Ã¤Ã®Ã«Ã¦Ã¨Ã²Ã¼?" << endl;
 				cin >> t;
 				if (t == "no"){
 					t = "o";
@@ -144,7 +144,7 @@ int main(){
 	system("CLS");
 	SetConsoleTextAttribute(hConsole, (WORD)((0 << 4) | 14));
 	if (e == 172){
-		cout << "Âû Âûèãðàëè";
+		cout << "Ã‚Ã» Ã‚Ã»Ã¨Ã£Ã°Ã Ã«Ã¨";
 		Sleep(1000);
 	}
 	system("CLS");
