@@ -1,1 +1,2 @@
 This is my first project having a certain graphical interface. Although this is a console application, but it gave me the opportunity to be creative, and not just solve algorithmic problems. You can see how it looks in folder "pictures".
+A few words about the game itself. The snake is controlled by the "WASD" keys. When the head hits a cage with an apple, the snake "eats" it and increases in length. The goal is to become 15 blocks in length. Everything has its own color, that is beautiful.
