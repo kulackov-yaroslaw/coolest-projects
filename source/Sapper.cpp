@@ -1,5 +1,5 @@
 //  Kulakov Yaroslav. 18:30/21/07/2015  //
-//                                                     Ρΰοεπ                                                      //
+//                                                     Γ‘Γ Γ―Γ¥Γ°                                                      //
 #include<gl/glut.h>
 #include<iostream>
 #include<time.h>
@@ -256,7 +256,7 @@ int main(int argc, char ** argv) {
 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
 	glutInitWindowSize(width * 20, height * 20);
 	glutInitWindowPosition((1100-width*20)/2+60, (750-height*20)/2);
-	glutCreateWindow("Cΰοεπ");
+	glutCreateWindow("CΓ Γ―Γ¥Γ°");
 	glClearColor(0.97, 0.97, 0.97, 1.0);
 	glMatrixMode(GL_PROJECTION);
 	glLoadIdentity();
