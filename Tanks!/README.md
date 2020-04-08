@@ -1,1 +1,4 @@
 My biggest project, it contains 1,500 lines and uses my own library. So, you play tanks. There is a field with black walls and two tanks - red and blue. You can play with your friend. Red tank controls by arrows, and blue one controles by "WASD". Your aim - to kill the opposite tank. Have lives, ammunition, and you can shoot. Also there are few specific things, which appered in the field. It can be a health, teleport, ammo, mines bomb, protect_field, speed. If you found 'big atom bomb", then a half of field will be destoyed. If you get "mines", you will have 3 mines, you can put it in any point of map and your opponent will exploded on it. Also if you run over a wall all fire it, it loses half strength. This Game was realy hard project and checked all my abilities. But it was fun.
+
+
+P.S. This progect uses OpenGl. But OpenGl do not support numbers, so i developed my own library thet allow numbers and english alphabet. It was around 1500-2000 lines also.
