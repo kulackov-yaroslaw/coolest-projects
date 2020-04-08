@@ -1,0 +1,1 @@
+Here is my library, which makes it possible to show on a screen digits, english letters and some other symbols. It takes me a lot of time and a lot of lines of code. But i was happy to do something realy useful.
